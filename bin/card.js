@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.white('Tushar Sonawane /'),
   handle: chalk.cyan('tushkiz'),
-  work: chalk.white('Software Enginner at Vuclip'),
+  work: chalk.white('Software Engineer at Vuclip'),
   twitter: chalk.cyan('https://twitter.com/tushkiz'),
   github: chalk.cyan('https://github.com/tushkiz'),
   linkedin: chalk.cyan('https://linkedin.com/in/tushkiz'),
