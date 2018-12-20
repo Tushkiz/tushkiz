@@ -1,20 +1,20 @@
 {
-  "name": "bitandbang",
+  "name": "tushkiz",
   "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Tushar Sonawane (@tushkiz)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "tushkiz": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/tushkiz/tushkiz.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Tushar Sonawane <tusharlsonawane@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
